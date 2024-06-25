@@ -1,0 +1,15 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "33a55442-b467-46d7-92c3-560a0306b254",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "default",
+    "bundleName": "resources_Snow",
+    "priority": 8,
+    "bundleFilterConfig": []
+  }
+}

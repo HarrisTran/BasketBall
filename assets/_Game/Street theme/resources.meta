@@ -1,0 +1,15 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "e5eddd2f-99da-400b-b9f0-d38cbeb83e31",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "default",
+    "bundleName": "resources_Street",
+    "priority": 8,
+    "bundleFilterConfig": []
+  }
+}

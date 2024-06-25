@@ -1,0 +1,15 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "6e967d03-8bee-4b39-b063-66a0add684f0",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "default",
+    "bundleName": "resources_Sport",
+    "priority": 8,
+    "bundleFilterConfig": []
+  }
+}

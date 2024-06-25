@@ -1,0 +1,11 @@
+{
+  "name": "BasketBallFork",
+  "uuid": "b0fd0297-9bb3-421f-8a1b-d6e45f346e4f",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "crypto-es": "^2.1.0",
+    "crypto-js": "^4.2.0"
+  }
+}
