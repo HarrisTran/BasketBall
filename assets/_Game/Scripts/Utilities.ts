@@ -32,4 +32,8 @@ export function playParticleRecursively(parent: ParticleSystem){
     }
 }
 
+export function test(params:number) {
+    return 100;
+}
+
 

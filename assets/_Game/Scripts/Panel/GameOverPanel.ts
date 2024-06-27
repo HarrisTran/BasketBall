@@ -45,7 +45,10 @@ export class GameOverPanel extends Component {
         
         let player = participants.find(user => user.userid == userId);
 
-        if(!player) return;
+        if(!player) {
+            participants.push({userid: userId,score: 0})
+        }
+        player = participants.find(user => user.userid == userId);
        
         player.score += CommonManager.Instance.score
         participants = participants.sort((a,b)=> b.score - a.score);
